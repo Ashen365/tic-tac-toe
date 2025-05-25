@@ -6,8 +6,9 @@ This is a simple **Tic-Tac-Toe** game built using **React**. It was developed as
 
 ## 👨‍🎓 Student Info
 
-- **Name:** [Your Full Name]
-- **Student ID:** [Your Student ID]
+- **Name:** Ashen Shanilka HErath
+- **Student ID:** IT22555694
+- **Year:** 3
 - **Semester:** 1
 - **Module:** IT3030 – PAF
 
