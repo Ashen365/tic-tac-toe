@@ -6,7 +6,7 @@ This is a simple **Tic-Tac-Toe** game built using **React**. It was developed as
 
 ## 👨‍🎓 Student Info
 
-- **Name:** Ashen Shanilka HErath
+- **Name:** Ashen Shanilka Herath
 - **Student ID:** IT22555694
 - **Year:** 3
 - **Semester:** 1
@@ -99,6 +99,5 @@ Tic-Tac-Toe Tutorial
 
 Thinking in React
 
-License
 
----
+--------------
