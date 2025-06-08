@@ -17,7 +17,7 @@ function Board() {
     if (squares[i] || calculateWinner(squares)) return;
 
     const nextSquares = squares.slice();
-    nextSquares[i] = xIsNext ? "X" : "O";
+    nextSquares[i] = xIsNext ? "1" : "2";
     setSquares(nextSquares);
     setXIsNext(!xIsNext);
   }
