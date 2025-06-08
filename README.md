@@ -1,6 +1,6 @@
 # 🎮 Tic-Tac-Toe React App
 
-This is a simple **Tic-Tac-Toe** game built using **React**. It was developed as part of **IT3030 – Programming Applications and Frameworks (PAF) Lab 08** at **SLIIT**.
+This is a simple **Tic-Tac-Toe** game built using **React**. It was developed as part of **IT3030 – Programming Applications and Frameworks (PAF) Lab 08** at **Sri Lanka Institute Of Information Technology(SLIIT)**.
 
 ---
 
